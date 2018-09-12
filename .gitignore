@@ -1,2 +1,4 @@
 
 .vscode/launch.json
+config.py
+__pycache__/config.cpython-36.pyc
